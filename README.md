@@ -3,5 +3,9 @@
  #### E-mail: joao.caramello@gmail.com
 
  ## CT: Desenvolvimento de sistemas - turma i1hn - SESI Nova Odessa
+ 
+ - *Esta página* tem ~~como~~ _objetivo_ testar o ***markdown***
 
- Esta página tem como objetivo testar o markdown
+   1<sub> 2 </sub>
+   
+   1<sup>2 </sup>
